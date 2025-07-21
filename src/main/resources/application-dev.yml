@@ -1,2 +1,4 @@
 server:
   port: 8081
+api:
+  key: 7630aef25d0e3a5245bd2c26819c46a9
